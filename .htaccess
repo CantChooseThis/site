@@ -1,5 +1,5 @@
 DirectoryIndex index.html
-ErrorDocument 404 /Test_Website/404.html
+ErrorDocument 404 site/404.html
 RewriteEngine on
 
 
